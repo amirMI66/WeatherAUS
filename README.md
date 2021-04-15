@@ -1,1 +1,1 @@
-# WeatherAUS
+This notebook purpose is clearly understand to whetherAUS(predicition to whether rainy for AUS ). Weather warnings are important forecasts because they are used to protect life and property. Forecasts based on temperature and precipitation are important to agriculture,aviation, and general household chores. For prediction used Machine learning. The result of the models are as below: Logistic Regression: 0.846738 Linear Discriminant: 0.847661 KNN: 0.833871 DecisionTreeClassifier: 0.786565 GaussianNB: 0.616124 RandomForestClassifier: 0.854896
